@@ -1,0 +1,29 @@
+[
+  {
+    "Name"  :"Bharat",
+    "PIN"   :"1210716226",
+    "Branch":"IT",
+    "Batch" :"2016-20"
+  },
+
+  {
+    "Name"  :"Abhay Joshi",
+    "PIN"   :"1210716201",
+    "Branch":"IT",
+    "Batch" :"2016-20"
+  },
+
+  {
+    "Name"  :"Madhuri",
+    "PIN"   :"1210716230",
+    "Branch":"IT",
+    "Batch" :"2016-20"
+  },
+  
+  {
+    "Name"  :"Padmasri",
+    "PIN"   :"1213016138",
+    "Branch":"CSE",
+    "Batch" :"2016-20"
+  }
+]
